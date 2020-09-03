@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Elham/Downloads/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Elham/Downloads/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Elham/Downloads/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Elham/Downloads/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Elham/Downloads/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Elham/Downloads/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Elham/Downloads/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Elham/Downloads/commons-io-2.5 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/Elham/Downloads/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Elham/Downloads/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Elham/Downloads/opencsv-3.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Elham/Downloads/client-combined-3.141.59 - Copy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Elham/Downloads/client-combined-3.141.59-sources - Copy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Elham/Downloads/byte-buddy-1.8.15 - Copy.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
